@@ -1,0 +1,118 @@
+Electoral_Proportion,Demographic_Type_1,Demographic_Type_2,Demographic_1,Demographic_2
+0.388,party,,Democrat,
+0.399,party,,Republican,
+0.213,party,,Independent,
+0.446,gender,,Male,
+0.554,gender,,Female,
+0.11,age,,18-29,
+0.182,age,,30-44,
+0.378,age,,45-64,
+0.33,age,,65+,
+0.698,race,,White,
+0.136,race,,Black,
+0.13,race,,Hispanic,
+0.037,race,,Other,
+0.374,education,,High School,
+0.299,education,,Some College,
+0.327,education,,College,
+0.151,party,gender,Democrat,Male
+0.237,party,gender,Democrat,Female
+0.192,party,gender,Republican,Male
+0.207,party,gender,Republican,Female
+0.103,party,gender,Independent,Male
+0.11,party,gender,Independent,Female
+0.042,party,age,Democrat,18-29
+0.074,party,age,Democrat,30-44
+0.146,party,age,Democrat,45-64
+0.127,party,age,Democrat,65+
+0.033,party,age,Republican,18-29
+0.06,party,age,Republican,30-44
+0.157,party,age,Republican,45-64
+0.148,party,age,Republican,65+
+0.035,party,age,Independent,18-29
+0.048,party,age,Independent,30-44
+0.075,party,age,Independent,45-64
+0.055,party,age,Independent,65+
+0.211,party,race,Democrat,White
+0.115,party,race,Democrat,Black
+0.049,party,race,Democrat,Hispanic
+0.013,party,race,Democrat,Other
+0.343,party,race,Republican,White
+0.004,party,race,Republican,Black
+0.041,party,race,Republican,Hispanic
+0.01,party,race,Republican,Other
+0.144,party,race,Independent,White
+0.017,party,race,Independent,Black
+0.04,party,race,Independent,Hispanic
+0.013,party,race,Independent,Other
+0.162,party,education,Democrat,High School
+0.113,party,education,Democrat,Some College
+0.114,party,education,Democrat,College
+0.137,party,education,Republican,High School
+0.118,party,education,Republican,Some College
+0.144,party,education,Republican,College
+0.075,party,education,Independent,High School
+0.068,party,education,Independent,Some College
+0.07,party,education,Independent,College
+0.049,gender,age,Male,18-29
+0.078,gender,age,Male,30-44
+0.17,gender,age,Male,45-64
+0.15,gender,age,Male,65+
+0.061,gender,age,Female,18-29
+0.105,gender,age,Female,30-44
+0.209,gender,age,Female,45-64
+0.18,gender,age,Female,65+
+0.323,gender,race,Male,White
+0.051,gender,race,Male,Black
+0.056,gender,race,Male,Hispanic
+0.016,gender,race,Male,Other
+0.375,gender,race,Female,White
+0.084,gender,race,Female,Black
+0.074,gender,race,Female,Hispanic
+0.02,gender,race,Female,Other
+0.157,gender,education,Male,High School
+0.136,gender,education,Male,Some College
+0.153,gender,education,Male,College
+0.218,gender,education,Female,High School
+0.163,gender,education,Female,Some College
+0.174,gender,education,Female,College
+0.061,age,race,18-29,White
+0.022,age,race,18-29,Black
+0.021,age,race,18-29,Hispanic
+0.006,age,race,18-29,Other
+0.109,age,race,30-44,White
+0.035,age,race,30-44,Black
+0.03,age,race,30-44,Hispanic
+0.008,age,race,30-44,Other
+0.264,age,race,45-64,White
+0.052,age,race,45-64,Black
+0.048,age,race,45-64,Hispanic
+0.014,age,race,45-64,Other
+0.265,age,race,65+,White
+0.026,age,race,65+,Black
+0.03,age,race,65+,Hispanic
+0.008,age,race,65+,Other
+0.034,age,education,18-29,High School
+0.052,age,education,18-29,Some College
+0.024,age,education,18-29,College
+0.048,age,education,30-44,High School
+0.064,age,education,30-44,Some College
+0.07,age,education,30-44,College
+0.139,age,education,45-64,High School
+0.114,age,education,45-64,Some College
+0.125,age,education,45-64,College
+0.153,age,education,65+,High School
+0.068,age,education,65+,Some College
+0.108,age,education,65+,College
+0.236,race,education,White,High School
+0.21,race,education,White,Some College
+0.252,race,education,White,College
+0.06,race,education,Black,High School
+0.044,race,education,Black,Some College
+0.032,race,education,Black,College
+0.068,race,education,Hispanic,High School
+0.034,race,education,Hispanic,Some College
+0.028,race,education,Hispanic,College
+0.011,race,education,Other,High School
+0.011,race,education,Other,Some College
+0.015,race,education,Other,College
